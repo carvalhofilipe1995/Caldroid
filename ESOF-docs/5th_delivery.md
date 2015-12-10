@@ -15,6 +15,8 @@ Evolução de Software - ESOF 2015/2016
 
 ## *Feature a evoluir* <a name="feature"></a>
 
+* Depois de uma análise acerca de toda a estrutura da aplicação [Caldroid](https://github.com/roomorama/Caldroid) e também o contacto com os mains contributors do projecto o grupo chegou à conclusão que a feature a evoluir seria a implementação da criação eventos em cada dia por parte do utilizador.
+
 ## *Componentes de implementação* <a name="components"></a>
 
 * Para implementação da feature foi necessária a utilização do IDE [Android Studio](http://developer.android.com/sdk/index.html) e foi implementada na linguagem de programação *Java* na qual o projecto se encontra maioritariamente desenvolvido.
@@ -26,3 +28,4 @@ Evolução de Software - ESOF 2015/2016
 ## *Bibliografia*  <a name="bli"></a>
 
   * **[Software Evolution](https://moodle.up.pt/pluginfile.php/80714/mod_resource/content/1/software_evolution.pdf)**
+  * **[Caldroid](https://github.com/roomorama/Caldroid)**
