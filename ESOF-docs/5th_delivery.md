@@ -15,7 +15,7 @@ Evolução de Software - ESOF 2015/2016
 
 ## *Feature a evoluir* <a name="feature"></a>
 
-* Depois de uma análise acerca de toda a estrutura da aplicação [Caldroid](https://github.com/roomorama/Caldroid) e também o contacto com os mains contributors do projecto o grupo chegou à conclusão que a feature a evoluir seria a implementação da criação eventos em cada dia por parte do utilizador.
+* Depois de uma análise acerca de toda a estrutura da aplicação [Caldroid](https://github.com/roomorama/Caldroid) e também do contacto com os mains contributors do projecto, o grupo chegou à conclusão que a feature implementada deveria ser a criação eventos em cada dia por parte do utilizador, visando assim um melhoramento do projecto.
 
 ## *Componentes de implementação* <a name="components"></a>
 
