@@ -43,13 +43,13 @@ Evolução de Software - ESOF 2015/2016
 **Alterações provocadas ao nível do utilizador**
 
 1. Aspecto normal
-<img src="https://github.com/carvalhofilipe1995/Caldroid/blob/master/ESOF-docs/resources/Display_normal.jpg">
+<img src="https://github.com/carvalhofilipe1995/Caldroid/blob/master/ESOF-docs/resources/display_normal.jpg">
 
 2. Adicionar evento
-<img src="https://github.com/carvalhofilipe1995/Caldroid/blob/master/ESOF-docs/resources/Add_event.jpg">
+<img src="https://github.com/carvalhofilipe1995/Caldroid/blob/master/ESOF-docs/resources/add_event.jpg">
 
 3. Evento Adicionado
-<img src="https://github.com/carvalhofilipe1995/Caldroid/blob/master/ESOF-docs/resources/Event_added.jpg">
+<img src="https://github.com/carvalhofilipe1995/Caldroid/blob/master/ESOF-docs/resources/event_added.jpg">
 
 ## *Submissão do patch* <a name="submission"></a>
 
