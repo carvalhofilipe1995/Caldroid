@@ -59,6 +59,9 @@ Foi adicionado o campo de texto.
 
 ## *Submissão do patch* <a name="submission"></a>
 
+* A submissão do patch não foi efectuada porque apesar de termos obtido sucesso na criação do evento, o grupo não conseguiu fazer o "save" desse mesmo evento. Ou seja, quando a aplicação é encerrada o evento não é guardado.
+O insucesso deveu-se a factores de tempo e de conhecimentos técnicos de Android.
+
 ## *Conclusão* <a name="conclusion"></a>
 
 * Depois de concluída esta fase de análise do projecto [Caldroid](https://github.com/roomorama/Caldroid), o grupo chegou à conclusão que existem alguns aspectos que devem ser melhorados, tais como:
@@ -67,8 +70,6 @@ Foi adicionado o campo de texto.
   2. Melhorar o controlo dos "pull-requests" efectuando testes de eficiência/qualidade.
 
 * Concluindo, achamos que se estes pontos fossem abordados no desenvolvimento do projecto iriam ser notadas evoluções em termos de qualidade e eficiência de software.
-
-
 
 ## *Bibliografia*  <a name="bli"></a>
 
