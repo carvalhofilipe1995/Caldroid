@@ -42,11 +42,11 @@ Evolução de Software - ESOF 2015/2016
 
 **Alterações provocadas ao nível do utilizador**
 
-1. Adicionar evento
+1. Adicionar evento;
 
 <img src="https://github.com/carvalhofilipe1995/Caldroid/blob/master/ESOF-docs/resources/add_event.jpg">
 
-2. Evento Adicionado
+2. Evento Adicionado.
 
 <img src="https://github.com/carvalhofilipe1995/Caldroid/blob/master/ESOF-docs/resources/event_added.jpg">
 
