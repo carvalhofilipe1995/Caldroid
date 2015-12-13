@@ -23,6 +23,14 @@ Evolução de Software - ESOF 2015/2016
 
 ## *Evolução da feature* <a name="evolution"></a>
 
+- **Principais Alterações**
+
+* As principais alterações que foram realizadas foram efectuadas nos seguintes ficheiros:
+
+1. [CaldroidSampleActivity.java](https://github.com/carvalhofilipe1995/Caldroid/blob/578cd3044d237adde18af625ee583599084c98b3/caldroidSampleActivity/src/main/java/com/caldroidsample/CaldroidSampleActivity.java)
+
+2. [activity_main.xml](https://github.com/carvalhofilipe1995/Caldroid/blob/578cd3044d237adde18af625ee583599084c98b3/caldroidSampleActivity/src/main/res/layout/activity_main.xml)
+
 ## *Submissão do patch* <a name="submission"></a>
 
 ## *Bibliografia*  <a name="bli"></a>
