@@ -40,7 +40,7 @@ A funçao **onSelectDate()** apenas mostrava no ecrã a informaçao do dia em qu
 
 * [activity_main.xml](https://github.com/carvalhofilipe1995/Caldroid/blob/578cd3044d237adde18af625ee583599084c98b3/caldroidSampleActivity/src/main/res/layout/activity_main.xml)
 
-<img src="https://github.com/carvalhofilipe1995/Caldroid/blob/master/ESOF-docs/resources/activity_main.jpg">
+<img align="center" src="https://github.com/carvalhofilipe1995/Caldroid/blob/master/ESOF-docs/resources/activity_main.jpg">
 
 Foi adicionado o campo de texto.
 
