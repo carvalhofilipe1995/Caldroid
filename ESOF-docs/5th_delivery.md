@@ -61,12 +61,12 @@ Foi adicionado o campo de texto.
 
 ## *Conclusão* <a name="conclusion"></a>
 
-* Depois de concluída esta fase de análise do projecto [Caldroid](https://github.com/roomorama/Caldroid), o grupo chegou à conclusão que existem muitos aspectos que devem ser melhorados, tais como:
+* Depois de concluída esta fase de análise do projecto [Caldroid](https://github.com/roomorama/Caldroid), o grupo chegou à conclusão que existem alguns aspectos que devem ser melhorados, tais como:
 
   1. Melhorar o método de interação do software com o utilizador;
-  2. Existir um maior controlo nos "pull-requests" efectuando testes de eficiência/qualidade.
+  2. Melhorar o controlo dos "pull-requests" efectuando testes de eficiência/qualidade.
 
-*
+* Concluindo, achamos que se estes pontos fossem abordados no desenvolvimento do projecto iriam ser notadas evoluções em termos de qualidade e eficiência de software.
 
 
 
