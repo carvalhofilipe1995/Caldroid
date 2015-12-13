@@ -7,7 +7,8 @@ Evolução de Software - ESOF 2015/2016
 3. [Componentes de implementação](#components)
 4. [Evolução da feature](#evolution)
 5. [Submissão do patch](#submission)
-6. [Bibliografia](#bli)
+6. [Conclusão](#conclusion)
+7. [Bibliografia](#bli)
 
 ## *Introdução* <a name="introdução"></a>
 
@@ -23,7 +24,7 @@ Evolução de Software - ESOF 2015/2016
 
 ## *Evolução da feature* <a name="evolution"></a>
 
-**Principais Alterações**
+**Componentes alteradas para implementação da feature**
 
 * *As principais alterações que foram realizadas para a implementação da feature foram efectuadas nos seguintes ficheiros:*
 
@@ -31,16 +32,21 @@ Evolução de Software - ESOF 2015/2016
 
 <img src="https://raw.githubusercontent.com/carvalhofilipe1995/Caldroid/master/ESOF-docs/resources/CaldroidSampleActivity.jpg">
 
+* Breve Explicação.
+
 2. [activity_main.xml](https://github.com/carvalhofilipe1995/Caldroid/blob/578cd3044d237adde18af625ee583599084c98b3/caldroidSampleActivity/src/main/res/layout/activity_main.xml)
 
 <img src="https://github.com/carvalhofilipe1995/Caldroid/blob/master/ESOF-docs/resources/activity_main.jpg">
 
+* Breve Explicação.
 
-**Breve explicação das alterações**
+**Alterações provocadas ao nível do utilizador**
 
-* Something.
+* Prints da aplicação a correr.
 
 ## *Submissão do patch* <a name="submission"></a>
+
+## *Conclusão* <a name="conclusion"></a>
 
 ## *Bibliografia*  <a name="bli"></a>
 
