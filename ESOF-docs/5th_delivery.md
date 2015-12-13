@@ -32,7 +32,9 @@ Evolução de Software - ESOF 2015/2016
 
 <img src="https://raw.githubusercontent.com/carvalhofilipe1995/Caldroid/master/ESOF-docs/resources/CaldroidSampleActivity.jpg">
 
-A funçao *onSelectDate()* apenas mostrava no ecrã a informaçao do dia em que o utilizador clicou. Como essa função não tinha grande utilidade, decidimos que ao clicar num dia, devia ser possível ao utilizador adicionar tarefas ao dia selecionado e guardá-las. Para isso utilizamos o *textView* para mostrar o dia selecionado e criamos o editText para que o utilizador pudesse introduzir as suas tarefas. Para alem disso tivemos de adicionar um handler ao teclado que aparece no ecrã quando o utilizador clica no campo de introdução de texto, para que fosse possivel guardar as tarefas introduzidas num hashmap para posteriormente guardá-lo num ficheiro.
+A funçao **onSelectDate()** apenas mostrava no ecrã a informaçao do dia em que o utilizador clicou. Como essa função não tinha grande utilidade, decidimos que ao clicar num dia, devia ser possível ao utilizador adicionar tarefas ao dia selecionado e guardá-las. Para isso utilizamos o **textView** para mostrar o dia selecionado e criamos o editText para que o utilizador pudesse introduzir as suas tarefas. Para alem disso tivemos de adicionar um handler ao teclado que aparece no ecrã quando o utilizador clica no campo de introdução de texto, para que fosse possivel guardar as tarefas introduzidas num hashmap para posteriormente guardá-lo num ficheiro.
+
+
 
 
 
@@ -41,6 +43,9 @@ A funçao *onSelectDate()* apenas mostrava no ecrã a informaçao do dia em que 
 <img src="https://github.com/carvalhofilipe1995/Caldroid/blob/master/ESOF-docs/resources/activity_main.jpg">
 
 Foi adicionado o campo de texto.
+
+
+
 
 **Alterações provocadas ao nível do utilizador**
 
